@@ -1,5 +1,4 @@
-![Titanic image](C:\Users\amirh\Downloads\museums-victoria-i-0yKUMumlo-unsplash.jpg)
-
+<img src="C:\Users\amirh\Downloads\museums-victoria-i-0yKUMumlo-unsplash.jpg" alt="Titanic image">
 
 
 
