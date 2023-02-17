@@ -716,6 +716,6 @@ submission.to_csv("submission.csv", index=False)
 
 submission.tail()
 ```
+# **Reference**
 
- For a full list please click on the link below:
 https://www.kaggle.com/code/mnassrib/titanic-logistic-regression-with-python?scriptVersionId=26445092&cellId=1  
