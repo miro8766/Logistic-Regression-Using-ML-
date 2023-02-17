@@ -1,3 +1,8 @@
+![Titanic image](C:\Users\amirh\Downloads\museums-victoria-i-0yKUMumlo-unsplash.JPG)
+
+
+
+
 # Logistic-Regression-Using-ML-
 This kernel follows a simple and straight forward methods for reading a two sets of dataset (train & test) into python, check the quality of the data, do the EDA, and finalize the logistic regression to evaluate the odds of survival for each of the passenger in Titanic given some explanatory variables. 
 Find the full reference on the bottom of the codes
