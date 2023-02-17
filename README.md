@@ -1,4 +1,4 @@
-![Titanic image](C:\Users\amirh\Downloads\museums-victoria-i-0yKUMumlo-unsplash.JPG)
+![Titanic image](C:\Users\amirh\Downloads\museums-victoria-i-0yKUMumlo-unsplash.jpg)
 
 
 
